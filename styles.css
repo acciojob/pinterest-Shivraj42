@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.hero{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    width: 70vw;
+    height: auto;
+    object-fit: cover;
+}
+.Explore{
+    text-align: center;
+}
+button{
+    border-radius: 2px;
+    color:white;
+    background-color:red;
+    border-radius: 5px; 
+    padding:10px ;
+    border: none;
+}
+
+
+
+
+
